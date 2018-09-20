@@ -1,0 +1,21 @@
+Jira
+https://jira.corp.adobe.com/browse/FP-4103235
+
+Smoke:
+ATS:
+http://fpqa.macromedia.com/
+Build Server:
+http://sjstore.corp.adobe.com/builds03/flashruntime/production_builds/flashruntime/
+
+Chrome Flash Location:
+C:\Users\raverma\AppData\Local\Google\Chrome\User Data\PepperFlash\26.0.0.137
+
+drm SUITE:
+http://herb.corp.adobe.com/auto/ProductionPKI/DRME2EClient_FP_swf28.html#app=5248&ca39-selectedIndex=1&586d-selectedIndex=1
+
+Sikuli Wiki link
+https://wiki.corp.adobe.com/display/flashruntime/HTML+AUTOMATION
+
+DRM Auto wiki:
+https://wiki.corp.adobe.com/display/flashruntime/DRM+transition+to+Flash+Runtime+Team
+InstallAX.exe -install -force -iv 17
